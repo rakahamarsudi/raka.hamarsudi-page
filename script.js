@@ -18,24 +18,24 @@ function certificate_more() {
     $('.more-certificate').html(`
         <div class="row pb-2">
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/dcd-04.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/dcd-04.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/pgt-01.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/pgt-01.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/dcd-05.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/dcd-05.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
         </div>
         <div class="row pb-2">
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/pgt-02.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/pgt-02.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/pgt-03.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/pgt-03.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
             <div class="col-sm-4 pl-1 pr-1">
-                <img src="materials/certificate/pgt-04.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#exampleModal">
+                <img src="materials/certificate/pgt-04.jpg" alt="certificate" class="img-thumbnail" data-toggle="modal" data-target="#certificateModal">
             </div>
         </div>
     `);
