@@ -1,0 +1,25 @@
+body {
+    margin-top: 40px;
+}
+
+.jumbotron img {
+    width: 300px;
+    border: 5px solid #444;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+hr{
+    width: 250px;
+    border: 2px solid #999;
+}
+
+section {
+    min-height: 400px;
+}
+
+.certificate {
+    background-color: #eee;
+}
