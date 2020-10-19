@@ -11,14 +11,14 @@ body {
     margin-bottom: 0px;
 }
 
-hr{
+hr {
     width: 250px;
     border: 2px solid #999;
 }
 
-/* section {
-    min-height: 400px;
-} */
+.about p {
+    text-indent: 10%;
+}
 
 .about {
     background-color: #eee;

@@ -43,7 +43,6 @@ function certificate_more() {
 
 $('#certificate-more').on('click', '.btn', function() {
     var status = $(this).text();
-    console.log(status);
     if(status === 'More') {
         certificate_more();
         $(this).text('Less');
