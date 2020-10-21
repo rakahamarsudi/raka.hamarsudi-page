@@ -51,3 +51,7 @@ $('#certificate-more').on('click', '.btn', function() {
         $(this).text('More');
     }
 });
+
+$(window).scroll(function(){
+    var winScroll = $(this).scrollTop();
+});
