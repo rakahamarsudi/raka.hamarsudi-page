@@ -1,0 +1,25 @@
+PAST; Jika kamu dapat mengulang 1 tahun kehidupanmu untuk menjalaninya kembali, di tahun berapa dan kenapa?
+PAST; Ceritakan sesuatu yang kamu percayai ketika masih kecil yang membuatmu tertawa saat ini?
+PAST; Dalam 10 tahun terakhir, berkah apa yang kamu dapatkan?
+PAST; Apa yang kamu pelajari tentang berkeluarga dari orang tuamu?
+PAST; Apa kemarahan terbesar yang pernah kamu alami? Kenapa?
+PAST; Adakah seseorang yang menyimpan dendam kepada anda? Jelaskan.
+PAST; Apa sesuatu yang kamu suka dan benci dalam hubunganmu sebelumnya?
+PAST; Adakah riwayat kejadian buruk dalam keluargamu? Bagaimana itu mempengaruhimu?
+PAST; Apa yang diajarkan hubunganmu di masa lalu mengenai kasih sayang dan hubungan?
+PAST; Apa hal paling ilegal yang pernah kamu lakukan?
+PAST; Ceritakan kenangan terbaikmu mengenai masa kecil?
+PAST; Adakah hubungan tidak sehat yang pernah kamu alami? Jelaskan.
+PAST; Ceritakan tentang keluarga yang kamu idamkan ketika kamu masih kecil.
+PAST; Apa 5 penyesalan terbesar dalam hidupmu?
+PAST; Apa sifat yang tidak kamu suka dari salah satu orang tuamu. Dalam hal apa kamu memiliki sifat itu juga?
+PAST; Kapan terakhir kali kamu menangis dan apa alasannya?
+PAST; Apa ingin kamu katakan pada dirimu di 10 tahun yang lalu?
+PAST; Jelaskan situasi atau kondisi dimana kamu merasa kesepian atau tidak disayangi?
+PAST; Apa hal terbaik yang diturunkan dari masing-masing orang tuamu kepadamu?
+PAST; Kapan suatu suasana mengingatkanmu pada masa kenangan masa kecil? Ceritakan mengenai kenangan tersebut.
+PAST; Apa yang menjadi sorotan terbaik dan terburuk tentang kehidupanmu setahun terakhir?
+PAST; Buku apa yang memberikan dampak besar dalam hidupmu?
+PAST; Kepada siapa dalam hidupmu, kamu harus meminta maaf dan karena apa?
+PAST; Jelaskan kapan kamu mengalami rusak kepercayaan dan bagaimana hal itu mempengaruhi kamu?
+PAST; Apa keyakinan terhadap dirimu yang kamu dapatkan dari hasil masa kecil?

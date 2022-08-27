@@ -1,0 +1,25 @@
+RELATIONSHIP; Lagu apa yang mendeskripsikan hubungan kita?
+RELATIONSHIP; Ceritakan ketika kamu merasa tidak mendapatkan dukunganku?
+RELATIONSHIP; Bagaimana cara kita bekerja sama dan saling mendukung? Jelaskan.
+RELATIONSHIP; Apa yang memicumu dalam pertengkaran?
+RELATIONSHIP; Apa hal yang aku lakukan yang menurutmu paling romantis?
+RELATIONSHIP; Apa yang paling kamu takuti mengenai hubungan kita?
+RELATIONSHIP; Dalam hal apa kita rentan akan masalah kepercayaan? Jelaskan.
+RELATIONSHIP; Jelaskan bagaimana hubungan kita mengubahmu?
+RELATIONSHIP; Jelaskan dua hal yang bisa kulakukan lebih baik untuk mendukungmu.
+RELATIONSHIP; Jelaskan ketika aku merasa kecewa padamu, tapi kamu merasa tidak melakukan kesalahan.
+RELATIONSHIP; Jika hubungan kita berakhir besok, apa tiga hal yang akan kamu rindukan?
+RELATIONSHIP; Apa hal dapat membuat kita bertengkar? Bagaimana kita mengatasinya?
+RELATIONSHIP; Selama sebulan terakhir, dalam hal apa kamu merasa tidak aku hargai?
+RELATIONSHIP; "Aku merasa sangat disayangi ketika kamu...."
+RELATIONSHIP; "Aku merasa sangat tidak disayangi ketika kamu...."
+RELATIONSHIP; Percakapan apa yang belum mampu kamu ungkapkan? Bagaimana caraku membantumu?
+RELATIONSHIP; Apa hal yang kamu harapkan untuk dimaafkan?
+RELATIONSHIP; Liburan seperti apa yang menurutmu romantis?
+RELATIONSHIP; Apa hal yang membuatmu meragukan hubungan kita?
+RELATIONSHIP; Menurutmu apa yang perlu diperbaiki dalam hubungan kita? Bagaimana kita melakukannya?
+RELATIONSHIP; Bagaimana mantanmu mendeskripsikan dirimu?
+RELATIONSHIP; Jelaskan bagaimana kamu kehilangan kepercayaan terhadap orang terdekatmu.
+RELATIONSHIP; Dalam hal apa kamu merasa sulit terbuka / jujur padaku?
+RELATIONSHIP; Dalam hal apa hubungan kita mirip dengan hubunganmu dengan orang tua?
+RELATIONSHIP; Pernahkan kamu menyadarkanku ketika kamu merasa aku salah? Jika pernah, kapan? Jika tidak, kapan kamu akan melakukannya?

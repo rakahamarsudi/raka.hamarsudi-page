@@ -1,0 +1,25 @@
+ABOUT YOU; Apa sarapan kesukaanmu? Kenapa?
+ABOUT YOU; Selain kebutuhan pokok, dalam hal apa kamu tidak ragu untuk menghabiskan uang?
+ABOUT YOU; Jenis hadiah apa yang paling kamu suka?
+ABOUT YOU; Menurutmu apa yang menjadi nilai terbaikku?
+ABOUT YOU; Menurutmu apa yang menjadi nilai terburukku?
+ABOUT YOU; Apa dari hidupanmu yang tidak akan kamu ubah demi siapa pun?
+ABOUT YOU; Kapan kamu menyadari bahwa aku orang yang cocok denganmu?
+ABOUT YOU; Dalam hal apa kamu merasa kurang dihargai olehku atau orang lain?
+ABOUT YOU; Jika aku bertanya kepada sahabatmu dulu mengenai karakter burukmu, apa yang akan mereka katakan?
+ABOUT YOU; Hal apa tentangku yang ingin lebih kamu tau atau membuatmu penasaran?
+ABOUT YOU; Apa yang kamu perajari tentang keuangan dari orang tuamu?
+ABOUT YOU; Apa yang membuatmu merasa sangat kompeten?
+ABOUT YOU; Hubungan siapa yang membuatmu terinspirasi atau ingin kamu hindari? Jelaskan.
+ABOUT YOU; Apa 'Culture Shock' terbesarmu?
+ABOUT YOU; Ketika apa kamu merasa sangat 'insecure'?
+ABOUT YOU; Kebohongan apa yang selalu kamu katakan hingga kamu merasa itu nyata?
+ABOUT YOU; Kamu merasa cenderung ke konservatif, moderat, liberal dalam politik? Jelaskan.
+ABOUT YOU; Pernahkah merasa cemburu ketika aku terlihat lebih akrab dengan orang lain?
+ABOUT YOU; Perhatian seperti apa yang kamu harapkan ketika kamu sakit?
+ABOUT YOU; Antara 1~10, seberapa berantakan kamu?
+ABOUT YOU; Sebagai orang tua, kamu akan mengambil peran ditakuti (jahat) atau dipercaya (baik)? Jelaskan.
+ABOUT YOU; Jelaskan bagaimana kamu menghabiskan akhir pekan yang sempurna?
+ABOUT YOU; Jika kamu tiba-tiba mendapatkan 3 kemampuan, kemampuan apa itu?
+ABOUT YOU; Apa yang membuatmu marah dan bagaimana kamu mengatasi kemarahanmu?
+ABOUT YOU; Jelaskan sesuatu yang menarik dalam hidupmu saat ini?
